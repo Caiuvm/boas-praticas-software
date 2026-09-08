@@ -1,5 +1,7 @@
 public class Sistema {
 
+    private static final double media_Minima = 6.0;
+
     public static void main(String[] args) {
         String nomeAluno = "Carlos";
         double Nota1 = 8;
@@ -16,7 +18,7 @@ public class Sistema {
     }
 
     public static String verificarSituacao(double media) {
-        if (media >= 6) {
+        if (media >= media_Minima) {
             return "Aprovado";
         } else {
             return "Reprovado";
