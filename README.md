@@ -6,21 +6,6 @@ Projeto desenvolvido para a atividade de aplicação de boas práticas de progra
 
 O objetivo deste projeto é analisar um código Java inicialmente desenvolvido sem preocupação com organização e legibilidade, realizar melhorias utilizando boas práticas de programação e registrar todas as alterações utilizando Git.
 
-## Melhorias realizadas
-
-Durante o desenvolvimento foram realizadas as seguintes melhorias:
-
-* Alteração de nomes de variáveis para nomes mais descritivos;
-* Modularização do código em métodos com responsabilidades específicas;
-* Utilização de código autoexplicativo;
-* Criação de uma constante para representar a média mínima de aprovação;
-* Padronização de nomes de classes, métodos, variáveis e constantes;
-* Organização da indentação e formatação do código;
-* Registro das alterações utilizando commits no Git;
-* Criação da branch `melhoria-boas-praticas`;
-* Criação de Pull Request;
-* Merge das melhorias para a branch `main`.
-
 ## Questões
 
 ### 1. Qual era o principal problema do código original?
